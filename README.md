@@ -5,7 +5,7 @@
 
 ## Integrantes del equipo
 
-1. Tatiana Paola Parra Sierra
+1. Tatiana Parra
 2. Karina Aguirre
 3. Angelica Mendez
 
@@ -33,3 +33,6 @@ El presente repositorio tiene como objetivo evidenciar el proceso de instalació
 **Nombre:** Programa-Git
 
 **URL:** https://github.com/Tatianap727-cmd/Programa-Git
+## Control de versiones
+
+Este proyecto utiliza Git para registrar los cambios realizados y GitHub para almacenar el repositorio remoto.
